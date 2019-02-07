@@ -1,0 +1,6 @@
+use_frameworks!
+target 'gender_classifier_Tests' do
+  pod 'gender_classifier', :path => '../'
+  
+  
+end
